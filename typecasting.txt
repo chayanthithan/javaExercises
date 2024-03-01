@@ -1,0 +1,10 @@
+upcasting-
+parent class=A
+child class=B
+
+A obj=(A)new B();
+
+down casting
+B obj1=(B) obj;
+
+
